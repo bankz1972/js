@@ -1,0 +1,60 @@
+.spacer[data-v-07b13bd8]{
+  min-height:5rem
+}
+.notify-link[data-v-07b13bd8]{
+  color:#f30f0f;
+  font-size:16px;
+  font-weight:bold;
+  text-decoration:underline
+}
+.notify[data-v-07b13bd8]{
+  margin-top:1rem;
+  color:#f3640f;
+  font-size:16px;
+  text-align:center
+}
+.forward-link[data-v-07b13bd8]{
+  line-height:2rem;
+  font-size:1rem;
+  color:#4747fa;
+  font-weight:bold;
+  -webkit-transition:0.5s;
+  transition:0.5s
+}
+.forward-link[data-v-07b13bd8]:hover{
+  -webkit-transition:0.5s;
+  transition:0.5s;
+  font-size:1.1rem;
+  cursor:pointer
+}
+.forward-link-green[data-v-07b13bd8]{
+  line-height:2rem;
+  font-size:1rem;
+  color:#2a5a48;
+  -webkit-transition:0.5s;
+  transition:0.5s
+}
+.forward-link-green[data-v-07b13bd8]:hover{
+  cursor:pointer;
+  -webkit-transition:0.5s;
+  transition:0.5s;
+  font-size:1.1rem
+}
+.input-error[data-v-07b13bd8]{
+  color:red
+}
+.vs-button-filled[data-v-07b13bd8]{
+  color:white !important;
+  background-color:#2a5a48 !important
+}
+.alert-text[data-v-07b13bd8]{
+  height:auto !important
+}
+.google-sign-in-button-animation[data-v-07b13bd8]{
+  --transform-scale-x: 1.05;
+  --transform-scale-y: 1.05;
+  --transform-translate-y: -0.25rem;
+  -webkit-box-shadow:0 10px 15px -3px rgba(0,0,0,0.3);
+          box-shadow:0 10px 15px -3px rgba(0,0,0,0.3)
+}
+
